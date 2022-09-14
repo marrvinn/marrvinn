@@ -3,6 +3,24 @@ title: "ads_shiny_app"
 output: html_notebook
 ---
 
+```{r}
+library("googledrive") 
+library("httpuv")
+library("dplyr")
+library("tidyverse")
+library("RSQLite")
+library("quantmod")
+library("TTR")
+# library("")
+library(shiny)
+library(shinyWidgets)
+library(shinythemes)
+library(plotly)
+library(tidyverse)
+library(tidyquant)
+```
+
+
 conditionalPanels in sidebarPanel
 idea from https://gist.github.com/aagarw30/c593799bc7d8557dc863411bb552e4f4
 
