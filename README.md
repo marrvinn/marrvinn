@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marrvinn.
-- 👀 I’m interested in Data Science and ABAP Development.
-- 🌱 I’m currently learning Python in general, especially building websites with flask and ABAP OO. 
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently taking the next steps Python.
 - 💞️ I’m looking to collaborate on projects related to these topics.
 - 📫 How to reach me: langer.marvin@gmail.com
 
