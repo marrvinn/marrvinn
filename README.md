@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marrvinn.
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently taking the next steps Python.
+- 🌱 I’m currently taking the next steps towards a Software Developer with focus on Python.
 - 💞️ I’m looking to collaborate on projects related to these topics.
 - 📫 How to reach me: langer.marvin@gmail.com
 
